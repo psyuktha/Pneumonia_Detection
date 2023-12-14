@@ -1,6 +1,6 @@
 # Pneumonia Prediction with EfficientNetB0
 
-![Project Image](url_to_project_image)
+![Project Image](img_pnemo.jpeg)
 
 ## Overview
 This project focuses on predicting pneumonia using a machine learning model trained on the EfficientNetB0 architecture. With a solid 79% accuracy, the model showcases efficient feature extraction, making it a valuable tool for medical diagnostics.
